@@ -44,8 +44,11 @@ Analyze customer behavior patterns to gain insights that help businesses improve
 - Regression (Predicting Annual Spending)
   - Algorithms: Linear Regression, Random Forest Regressor,Gradient boosting,XGBRegressor,Decision Tree.
   - Evaluation: RMSE, R² Score
-5.Feature Importance
-- shap using for feature importance.6.Perform Random Search
-7.Model Deployment
 
+5.Feature Importance
+- shap using for feature importance.
+
+6.Perform Random Search
+
+7.Model Deployment
 - use pickle file (.pkl) create new pickle file.
